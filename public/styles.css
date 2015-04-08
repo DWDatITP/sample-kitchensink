@@ -1,0 +1,6 @@
+/* These static CSS styles will get applied to the page */
+
+body {
+  /* make the body of the page have a gray backround */
+  background-color: gray;
+}
